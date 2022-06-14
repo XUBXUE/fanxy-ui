@@ -1,0 +1,5 @@
+@import "../../style/base/inset.css";
+
+.inset-button {
+  @mixin inset-button;
+}
