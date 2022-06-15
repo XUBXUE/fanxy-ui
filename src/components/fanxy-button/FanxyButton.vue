@@ -1,5 +1,5 @@
 <template>
-  <button class="inset-button">Fanxy Button</button>
+  <button class="inset-button f-button"><slot>Fanxy Button</slot></button>
 </template>
 
 <script lang="ts">
